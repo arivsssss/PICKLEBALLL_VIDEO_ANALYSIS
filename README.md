@@ -109,7 +109,11 @@ output_videos/
   - Average speeds  
   - Total distance covered  
 
-🖼️ **Example Screenshot:**  
+🖼️ **ExamplE video:**  
+
+[🎥 Watch the Demo](https://github.com/arivsssss/pickleball_video_analysis/blob/main/ezyZip.mp4)
+
+
 
 ![image](https://github.com/user-attachments/assets/8f9216b8-97da-450a-869f-4799a75fd4de)
 
