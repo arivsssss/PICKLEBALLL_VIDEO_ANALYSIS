@@ -111,7 +111,8 @@ output_videos/
 
 🖼️ **ExamplE video:**  
 
-[🎥 Watch the Demo](https://github.com/arivsssss/pickleball_video_analysis/blob/main/ezyZip.mp4)
+[![🎬 Watch the Demo](https://img.youtube.com/vi/F_0tXedK6Wg/0.jpg)](https://www.youtube.com/watch?v=F_0tXedK6Wg)
+
 
 
 
