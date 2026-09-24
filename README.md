@@ -109,7 +109,7 @@ output_videos/
   - Average speeds  
   - Total distance covered  
 
-🖼️ **ExamplE video:**  
+🖼️ **Example video:**  
 
 [![🎬 Watch the Demo](https://img.youtube.com/vi/F_0tXedK6Wg/0.jpg)](https://www.youtube.com/watch?v=F_0tXedK6Wg)
 
